@@ -1,0 +1,2 @@
+recursive-include playbooks *.yml
+recursive-include playbooks *.yaml

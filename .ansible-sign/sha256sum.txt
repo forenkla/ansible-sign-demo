@@ -1,0 +1,2 @@
+dd09247ea838f3ce0ffdd27e05576125dce9499599c1ba407e55cb6896e26879  MANIFEST.in
+c4926a28e3ea58fdebaee9ec8da7e6b3330fe32dab9de4f02b379493f50257e3  playbooks/ping.yml
