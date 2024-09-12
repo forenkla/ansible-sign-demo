@@ -2,3 +2,4 @@ recursive-include playbooks *.yml
 recursive-include playbooks *.yaml
 exclude .gitignore
 include MANIFEST.in
+recursive-exclude .git *
